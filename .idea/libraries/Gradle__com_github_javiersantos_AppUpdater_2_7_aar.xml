@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.javiersantos:AppUpdater:2.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d433b7271072a1619e555e0ee6541fa3/jetified-AppUpdater-2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d433b7271072a1619e555e0ee6541fa3/jetified-AppUpdater-2.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d433b7271072a1619e555e0ee6541fa3/jetified-AppUpdater-2.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be4da43a953e457c4273d3e022206b60/jetified-AppUpdater-2.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be4da43a953e457c4273d3e022206b60/jetified-AppUpdater-2.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be4da43a953e457c4273d3e022206b60/jetified-AppUpdater-2.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34a9d3c90ded067032aec868c1975d6/jetified-AppUpdater-2.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34a9d3c90ded067032aec868c1975d6/jetified-AppUpdater-2.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34a9d3c90ded067032aec868c1975d6/jetified-AppUpdater-2.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.javiersantos/AppUpdater/2.7/bed83c2727f9678d211a07670f122c9570f5bbae/AppUpdater-2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
